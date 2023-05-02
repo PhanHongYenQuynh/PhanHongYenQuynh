@@ -47,7 +47,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
  
 <br>
-<h2 align="center">👽 HOW TO CONTACT ME 👽</h2>
+<h2 align="center">☎️ HOW TO CONTACT ME ☎️</h2>
 <br> 
 <p align="center"> 
   <a href="https://www.facebook.com/profile.php?id=100064167731542&mibextid=LQQJ4d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" /></a> 
