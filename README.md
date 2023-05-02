@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/PhanHongYenQuynh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/PhanHongYenQuynh?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
 
-<h2 align="center">🛠 SKILLS AND TOOLS 🛠</h2>
+<h2 align="center">🛠  SKILLS AND TOOLS  🛠</h2>
 <p align="center"> 
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a> 
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"</a> 
@@ -31,7 +31,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
   <br>
-<h2 align="center">🔥GITHUB STACKS 🔥</h2>
+<h2 align="center">🔥 GITHUB STACKS 🔥</h2>
 <br>
 <div align=center>
   <a href="http://www.github.com/PhanHongYenQuynh">
@@ -42,12 +42,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <br>
   <br>
  <a href="https://github.com/PhanHongYenQuynh" >
-   <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanHongYenQuynh&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+   <img align="left" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanHongYenQuynh&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </a>
 </div>
  
 <br>
-<h2 align="center">☎️ HOW TO CONTACT ME ☎️</h2>
+<h2 align="center">☎️ HOW TO CONTACT ME  ☎️</h2>
 <br> 
 <p align="center"> 
   <a href="https://www.facebook.com/profile.php?id=100064167731542&mibextid=LQQJ4d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" /></a> 
