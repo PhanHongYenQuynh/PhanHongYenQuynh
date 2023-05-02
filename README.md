@@ -35,7 +35,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <div align=center>
   <a href="http://www.github.com/PhanHongYenQuynh">
-    <img width="300" align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=phanhongyenquynh&how_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/></a>
+    <img width="500" align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=phanhongyenquynh&how_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/></a>
   <a href="http://www.github.com/PhanHongYenQuynh">
     <img width="500" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanhongyenquynh&layout=compact&&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true&langs_count=7"/></a>
  </div>
