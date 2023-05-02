@@ -42,7 +42,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <br>
   <br>
  <a href="https://github.com/PhanHongYenQuynh" >
-   <img align="left" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanHongYenQuynh&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+   <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanHongYenQuynh&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </a>
 </div>
  
@@ -53,7 +53,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://www.facebook.com/profile.php?id=100064167731542&mibextid=LQQJ4d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" /></a> 
   <a href="https://www.github.com/PhanHongYenQuynh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a> 
   <a href="http://www.instagram.com/yolie._.phan?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a> 
-  <a href="https://www.youtube.com/c/channel/UCk4n-cG1uCvsPUv6UorEmwQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="50" height="50" /></a></p>
+  <a href="https://www.youtube.com/c/channel/UCk4n-cG1uCvsPUv6UorEmwQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="50" height="50" /></a>
+</p>
 
-
+<style>
+  p {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  p img {
+    margin: 0 10px;
+  }
+</style>
 
