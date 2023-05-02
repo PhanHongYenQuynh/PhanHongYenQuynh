@@ -35,19 +35,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <div align=center>
   <a href="http://www.github.com/PhanHongYenQuynh">
-    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=PhanHongYenQuynh&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="PhanHongYenQuynh's GitHub stats"  /></a>
+    <img width="350" align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=phanhongyenquynh&how_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/></a>
   <a href="http://www.github.com/PhanHongYenQuynh">
-    <img align="right" width="469" src="https://github-readme-activity-graph.cyclic.app/graph?username=PhanHongYenQuynh&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-  <br>
-  <br>
-  <br>
- <a href="https://github.com/PhanHongYenQuynh" >
-   <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhanHongYenQuynh&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
- 
+    <img width="469" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanhongyenquynh&layout=compact&&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true&langs_count=7"/></a>
+ </div>
 <br>
 <h2 align="center">☎️ HOW TO CONTACT ME  ☎️</h2>
 <br> 
@@ -57,6 +48,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="http://www.instagram.com/yolie._.phan?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a> 
   <a href="https://www.youtube.com/c/channel/UCk4n-cG1uCvsPUv6UorEmwQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="50" height="50" /></a>
 </p>
-
+ 
+![Snake animation](https://github.com/Sutil/Sutil/blob/output/github-snake-dark.svg)
 
 
