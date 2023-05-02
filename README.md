@@ -1,3 +1,7 @@
+<a href="#" target="_blank">
+  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+</a>
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100064167731542&mibextid=LQQJ4d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Yoliephan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@yolie._.phan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCk4n-cG1uCvsPUv6UorEmwQ) 
 
