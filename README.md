@@ -35,9 +35,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 <div align=center>
   <a href="http://www.github.com/PhanHongYenQuynh">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=PhanHongYenQuynh&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="PhanHongYenQuynh's GitHub stats"  /></a>
+    <img width="359" align="center" src="https://github-readme-stats.vercel.app/api?username=PhanHongYenQuynh&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="PhanHongYenQuynh's GitHub stats"  /></a>
   <a href="http://www.github.com/PhanHongYenQuynh">
-    <img align="right" width="500" src="https://github-readme-activity-graph.cyclic.app/graph?username=PhanHongYenQuynh&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+    <img align="right" width="469" src="https://github-readme-activity-graph.cyclic.app/graph?username=PhanHongYenQuynh&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   <br>
   <br>
   <br>
