@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yolie Phan  
-* Developer and Designer. I've been learning to code for 3 years. I started with C, C#, ASP.NET MVC, Microsoft SQL... I'm a third-year at Hutech University. It contains little project of mine in here. If you're interested I welcome  
+* Developer and Designer. I've been learning to code for 3 years. I started with C, C#, ASP.NET MVC, Microsoft SQL... 
+* I'm a third-year at Hutech University. It contains little project of mine in here. If you're interested I welcome  
 * 🌍  I'm based in Viet Nam 
 * 🖥️  See my portfolio at [Instagram](http://instagram.com/yolie._.phan?igshid=YmMyMTA2M2Y=) 
 * ✉️  You can contact me at [yoliephan2255@gmail.com](mailto:yoliephan2255@gmail.com) 
@@ -43,10 +44,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h2 align="center">☎️ HOW TO CONTACT ME  ☎️</h2>
 <br> 
 <p align="center"> 
-  <a href="https://www.facebook.com/profile.php?id=100064167731542&mibextid=LQQJ4d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" /></a> 
-  <a href="https://www.github.com/PhanHongYenQuynh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a> 
-  <a href="http://www.instagram.com/yolie._.phan?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a> 
-  <a href="https://www.youtube.com/c/channel/UCk4n-cG1uCvsPUv6UorEmwQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="50" height="50" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100064167731542&mibextid=LQQJ4d" target="_blank" rel="noreferrer">
+    <img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50"/></a> 
+  <a href="https://www.github.com/PhanHongYenQuynh" target="_blank" rel="noreferrer">
+    <img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50"/></a> 
+  <a href="http://www.instagram.com/yolie._.phan?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer">
+    <img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50"/></a> 
+  <a href="https://www.youtube.com/c/channel/UCk4n-cG1uCvsPUv6UorEmwQ" target="_blank" rel="noreferrer">
+    <img height="50" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="50"/></a>
 </p>
  
 ![Snake animation](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
