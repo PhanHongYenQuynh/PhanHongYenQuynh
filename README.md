@@ -50,10 +50,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h2 align="center">☎️ HOW TO CONTACT ME  ☎️</h2>
 <br> 
 <p align="center"> 
-  <a href="https://www.facebook.com/profile.php?id=100064167731542&mibextid=LQQJ4d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" /></a> 
-  <a href="https://www.github.com/PhanHongYenQuynh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /></a> 
-  <a href="http://www.instagram.com/yolie._.phan?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /></a> 
-  <a href="https://www.youtube.com/c/channel/UCk4n-cG1uCvsPUv6UorEmwQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100064167731542&mibextid=LQQJ4d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="50" height="50" /></a> 
+  <a href="https://www.github.com/PhanHongYenQuynh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /></a> 
+  <a href="http://www.instagram.com/yolie._.phan?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a> 
+  <a href="https://www.youtube.com/c/channel/UCk4n-cG1uCvsPUv6UorEmwQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="50" height="50" /></a>
 </p>
 
 
