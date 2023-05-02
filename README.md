@@ -31,6 +31,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a> 
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
+  <br>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<br>
+<div align=center>
+  <a href="http://www.github.com/PhanHongYenQuynh">
+    <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=PhanHongYenQuynh&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="PhanHongYenQuynh's GitHub stats"  /></a>
+  <a href="http://www.github.com/PhanHongYenQuynh">
+    <img align="right" width="469" src="https://github-readme-activity-graph.cyclic.app/graph?username=PhanHongYenQuynh&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</div>
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
@@ -41,13 +50,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="http://www.instagram.com/yolie._.phan?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="50" height="50" /></a> 
   <a href="https://www.youtube.com/c/channel/UCk4n-cG1uCvsPUv6UorEmwQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="50" height="50" /></a></p>
 
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<br>
-<div align=center>
-  <a href="http://www.github.com/PhanHongYenQuynh">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=PhanHongYenQuynh&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="PhanHongYenQuynh's GitHub stats"  /></a>
-  <a href="http://www.github.com/PhanHongYenQuynh">
-    <img align="right" width="434" src="https://github-readme-activity-graph.cyclic.app/graph?username=PhanHongYenQuynh&bg_color=000000&color=ffffff&line=22c55e&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</div>
+
 
