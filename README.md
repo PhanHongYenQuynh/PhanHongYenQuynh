@@ -5,7 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🖥️  See my portfolio at [Instagram](http://instagram.com/yolie._.phan?igshid=YmMyMTA2M2Y=) 
 * ✉️  You can contact me at [yoliephan2255@gmail.com](mailto:yoliephan2255@gmail.com) 
 * 🧠  I'm learning Spring Boot, SQL Injections, Swift, React Native, So on. 
-* 🤝  I'm open to collaborating on other programmers to increase my experience and knowledge. * ⚡  I'm secretly Taylor Swifts. But I don't tell you
+* 🤝  I'm open to collaborating on other programmers to increase my experience and knowledge.
+* ⚡  I'm secretly Taylor Swifts. But I don't tell you
 
 <a href="https://www.github.com/PhanHongYenQuynh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/PhanHongYenQuynh?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
 
