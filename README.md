@@ -1,9 +1,9 @@
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yolie Phan  
 ### 🫠 More About Me:
 * Developer and Designer. I've been learning to code for 3 years. I started with C, C#, ASP.NET MVC, Microsoft SQL... 
-* I'm a third-year at Hutech University. It contains little project of mine in here. If you're interested I welcome  
+* It contains little project of mine in here. If you're interested I welcome  
 * 🌍  I'm based in Viet Nam 
-* 🖥️  See my portfolio at [Instagram](http://instagram.com/yolie._.phan?igshid=YmMyMTA2M2Y=) 
+* 🖥️  See my portfolio at [Instagram]
 * ✉️  You can contact me at [yoliephan2255@gmail.com](mailto:yoliephan2255@gmail.com) 
 * 🧠  I'm learning Spring Boot, SQL Injections, Swift, React Native, So on. 
 * 🤝  I'm open to collaborating on other programmers to increase my experience and knowledge.
