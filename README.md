@@ -5,7 +5,7 @@
 * 🌍  I'm based in Viet Nam 
 * 🖥️  See my portfolio at [Instagram]
 * ✉️  You can contact me at [yoliephan2255@gmail.com](mailto:yoliephan2255@gmail.com) 
-* 🧠  I'm learning Spring Boot, SQL Injections, Swift, React Native, So on. 
+* 🧠  I'm learning Spring Boot, SQL Injections, SwiftUI, React Native, So on. 
 * 🤝  I'm open to collaborating on other programmers to increase my experience and knowledge.
 * ⚡  I'm secretly Taylor Swifts. But I don't tell you
 
